@@ -3,6 +3,12 @@ John Hawthorn (jhawthor@uvic.ca)
 
 ---
 
+Requs
+  libxext-dev
+  libpng-dev 
+  libgif-dev
+  libjpeg-dev
+
 Installation
 
 To compile type
